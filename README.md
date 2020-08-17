@@ -1,2 +1,4 @@
 # JonathWesley.github.io
-Profile
+
+Making my own professional profile
+and trying out github pages
